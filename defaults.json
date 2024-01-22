@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Happy",
+        "primary": "#8338EC",
+        "secondary": "#3A86FF",
+        "contrast": "#FF006E"
+    },
+    {
+        "name": "Sunny",
+        "primary": "#FFC300",
+        "secondary": "#FF5733",
+        "contrast": "#C70039"
+    },
+    {
+        "name": "Oceanic",
+        "primary": "#00A8CC",
+        "secondary": "#005F6B",
+        "contrast": "#FF2E63"
+    },
+    {
+        "name": "Nature",
+        "primary": "#7FB800",
+        "secondary": "#305A30",
+        "contrast": "#FF5733"
+    },
+    {
+        "name": "Calm",
+        "primary": "#B8B8B8",
+        "secondary": "#666666",
+        "contrast": "#FF4081"
+    },
+    {
+        "name": "Elegant",
+        "primary": "#D4AF37",
+        "secondary": "#4B0082",
+        "contrast": "#FF4500"
+    },
+    {
+        "name": "Vintage",
+        "primary": "#8B4513",
+        "secondary": "#BDB76B",
+        "contrast": "#4682B4"
+    },
+    {
+        "name": "Pastel",
+        "primary": "#FFD1DC",
+        "secondary": "#FFA07A",
+        "contrast": "#6A5ACD"
+    }
+]
